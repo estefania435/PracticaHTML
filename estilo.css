@@ -1,0 +1,47 @@
+html, body {
+	height:100%;
+}
+
+header {
+	float:center;
+	background:#835247;
+	padding:30px 10px;
+	color:azure;
+	text-align: center;
+}
+
+section {
+	width: 80%;
+	background:#fff;
+	float:right;
+	overflow:auto;
+	padding-bottom: 30px;
+	padding-top: 10px;
+}
+
+aside {
+	float: left;
+	border: 1px solid blue;
+	width: 18%;
+	background: #73615D;
+	height: 100%;
+	color:azure;
+}
+
+footer {
+	position: relative;
+	margin-top: -50px;
+	height:50px;
+	padding:5px 0px;
+	clear: both;
+	background: #835247;
+	text-align: center;
+	color: #fff;
+}
+
+figure {
+	float: center;
+	display: table;
+	margin: 0 auto;
+	padding: 15px 15px;
+}
